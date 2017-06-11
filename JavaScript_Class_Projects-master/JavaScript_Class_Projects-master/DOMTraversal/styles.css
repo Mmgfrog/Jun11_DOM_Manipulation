@@ -1,0 +1,16 @@
+.container {
+	margin: 0 auto;
+	width: 50%;
+	
+}
+
+.heading:hover {
+	background-color:yellow;
+}
+
+.paragraph {
+}
+
+h5:hover {
+	color:red;
+}
